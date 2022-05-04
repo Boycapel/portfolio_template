@@ -21,17 +21,7 @@ const Projects = () => {
                     <a href="https://github.com/Boycapel/nftmintingbot" target="_blank" className="button">Code</a>
                 </div>
 
-                <div className="projects__card">
-                    <h3>Uniswap</h3>
-                    <img src={uniswap} alt="Uniswap Swap Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
-                    </p>
-
-                    <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
-                </div>
+              
 
                 <div className="projects__card">
                     <h3>Defi Yield Aggregator</h3>
