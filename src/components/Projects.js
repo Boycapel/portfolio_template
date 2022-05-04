@@ -1,7 +1,7 @@
 // Import Assets
-import uniswap from '../assets/uniswap.png';
-import compound from '../assets/compound.png';
-import aave from '../assets/aave.png';
+import mintingbot from '../assets/mintingbot.png';
+import nftmarketplace from '../assets/nftmarketplace.jpg';
+import ya from '../assets/ya.png';
 
 const Projects = () => {
     return (
