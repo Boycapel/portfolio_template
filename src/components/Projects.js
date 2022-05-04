@@ -2,7 +2,7 @@
 import mintingbot from '../assets/mintingbot.png';
 import nftmarketplace from '../assets/nftmarketplace.jpg';
 import ya from '../assets/ya.png';
-import uniswap from '../assets/uniswap.png';
+import Uniswap from '../assets/uniswap.png';
 
 const Projects = () => {
     return (
